@@ -45,7 +45,6 @@ O `README.md` deve explicar:
 
 Modelo sugerido:
 
-```md
 # Amigo Secreto ProGirls 🎁💜
 
 Projeto simples e divertido para treinar lógica, APIs, Flask e integração entre front e back.
@@ -54,22 +53,21 @@ Projeto simples e divertido para treinar lógica, APIs, Flask e integração ent
 
 1. Crie e ative o ambiente virtual  
 2. Instale as dependências:  
-```
 
+```
 pip install -r requirements.txt
-
 ```
+
 3. Rode o servidor:  
-```
 
+```
 python app.py
-
 ```
+
 4. Acesse:  
+
 ```
-
 [http://localhost:5000](http://localhost:5000)
-
 ```
 
 ## 🧩 Funcionalidades
@@ -78,7 +76,6 @@ python app.py
 - Listar participantes  
 - Sortear o Amigo Secreto  
 - Exibir o resultado em uma página dedicada  
-```
 
 ---
 
@@ -106,33 +103,14 @@ Checklist:
 * [ ] JSON sendo atualizado
 * [ ] Sortear funcionando
 * [ ] Lista aparecendo no frontend
-* [ ] Página `/resultado` mostrando o sorteio
 * [ ] Sem erros no console
 * [ ] Arquivos organizados
 
 ---
 
-## 🎉 5. Publicar o repositório no GitHub
+## 🎉 5. Entregar o projeto
 
-1. Criar o repo
-2. Subir o projeto:
-
-```
-git init
-git add .
-git commit -m "Minha solução para o Desafio de Natal"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/progirls-desafio-natal.git
-git push -u origin main
-```
-
----
-
-## 🎉 6. Entregar o projeto
-
-Agora é só enviar o link do repositório (ou a pasta zipada), junto com uma breve explicação do aprendizado. 💜✨
-
----
+Siga as orientações do arquivo CONTRIBUTING.md para enviar seu Pull Request corretamente.
 
 ## 💜 Etapa concluída!
 

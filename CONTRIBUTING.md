@@ -5,6 +5,9 @@ Aqui você vai desenvolver um mini sistema **FullStack em Python**, usando **Fla
 
 É um projeto simples, divertido e perfeito para quem está começando — e totalmente personalizável! 💜✨
 
+![Preview do site do Desafio de Natal](/etapas/imagem/Desafio-de-Natal-Amigo-Secreto.png)
+
+
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -123,7 +126,7 @@ http://localhost:5000
 
 ## 🚀 Rotas Disponíveis (Flask)
 
-### **POST /api/add**
+### **POST /api/participantes**
 
 Adicionar participante  
 Body JSON:
@@ -134,13 +137,13 @@ Body JSON:
 
 ---
 
-### **GET /api/listar**
+### **GET api/participantes**
 
 Retorna todos os participantes cadastrados.
 
 ---
 
-### **DELETE /api/remover/<nome>**
+### **DELETE /api/participantes/<nome>**
 
 Remove um participante pelo nome.
 
