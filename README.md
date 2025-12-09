@@ -7,14 +7,13 @@ Aqui você encontra:
 
 - ✨ Explicação do desafio  
 - ✨ Etapas para desenvolver o projeto  
-- ✨ Orientações de participação  
-- ✨ Links e materiais úteis
-
+- ✨ Orientações de participação
+  
 ---
 
 ## 📌 Como começar
 
-👉 Para ver **como contribuir**, acessar o passo a passo de *fork*, *branch* e *Pull Request*, abra o arquivo:  
+👉 Para ver **como contribuir**, clique no ícone de **Contributing** aqui no GitHub (ícone com carinhas) e acesse o passo a passo de como fazer um *fork*, criar uma *branch* e abrir um *Pull Request*:  
 **[`CONTRIBUTING.md`](./CONTRIBUTING.md)**
 
 👉 Para iniciar o desafio, entre na pasta:  
