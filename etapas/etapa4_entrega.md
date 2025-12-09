@@ -1,4 +1,4 @@
-# Etapa 5 — Entrega & Publicação
+# Etapa 4 — Entrega & Publicação
 
 Chegamos na última etapa! Agora você vai preparar o projeto para que qualquer pessoa possa rodar, testar, revisar e aprender com ele. Esta etapa inclui organização final, limpeza, checklist e instruções de execução.
 
