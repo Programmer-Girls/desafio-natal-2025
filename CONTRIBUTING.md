@@ -201,7 +201,6 @@ git push origin meu-nome
 
 - Tema natalino no front
 - Layout mais bonito
-- Salvamento em arquivo JSON
 - Animação no momento do sorteio
 - Tela separada para mostrar os resultados
 
