@@ -73,10 +73,10 @@ Tudo simples e direto — sem frameworks obrigatórios.
 
 ## ▶️ Como Rodar o Back-end (Flask)
 
-Entre na pasta do backend:
+Entre na pasta do modelo-projeto:
 
 ```bash
-cd backend
+cd modelo-projeto
 ```
 
 Crie o ambiente virtual:
