@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amigo Secreto - ProGirls 🎄</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="snowfall"></div>
+    
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>🎄 Amigo Secreto 🎁</h1>
+                <p>Desafio de Natal ProGirls 2025</p>
+                <button id="toggleDarkMode" class="dark-mode-btn">🌙</button>
+            </div>
+        </header>
+
+        <main>
+            <section class="input-section">
+                <h2>Adicione os Participantes</h2>
+                <div class="form-group">
+                    <input 
+                        type="text" 
+                        id="nomeInput" 
+                        placeholder="Nome do participante"
+                        class="input-field"
+                    >
+                    <textarea 
+                        id="desejosInput" 
+                        placeholder="Lista de desejos (ex: Livro, Caneca, Perfume)"
+                        class="input-field textarea"
+                    ></textarea>
+                    <button id="addBtn" class="btn btn-primary">Adicionar Participante</button>
+                </div>
+            </section>
+
+            <section class="participantes-section">
+                <h2>Participantes</h2>
+                <div id="participantesList" class="participantes-list">
+                    <p class="empty-state">Nenhum participante adicionado ainda</p>
+                </div>
+            </section>
+
+            <section class="sorteio-section">
+                <button id="sortearBtn" class="btn btn-secondary">Sortear Amigos Secretos</button>
+            </section>
+
+            <section id="resultadoSection" class="resultado-section hidden">
+                <h2>Resultado do Sorteio</h2>
+                <div id="resultadoContainer" class="flip-cards-container">
+                </div>
+                <button id="novoSorteioBtn" class="btn btn-primary">Novo Sorteio</button>
+            </section>
+        </main>
+
+        <footer>
+            <p>💜 Feito com amor para o Desafio de Natal ProGirls 2025</p>
+        </footer>
+    </div>
+
+    <div id="confetti-container"></div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
