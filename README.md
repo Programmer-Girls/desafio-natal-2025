@@ -122,7 +122,7 @@ Este projeto está licenciado sob a licença especificada em [`LICENSE`](./LICEN
 
 ## 💜 Créditos
 
-Desenvolvido para o **Desafio de Natal ProGirls 2025**.
+Desenvolvido 💛 por <strong>@mayasrl</strong> para o **Desafio de Natal ProGirls 2025**.
 
 ---
 
