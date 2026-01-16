@@ -120,10 +120,8 @@ Para contribuir com este projeto, siga as instruções em [`CONTRIBUTING.md`](./
 
 Este projeto está licenciado sob a licença especificada em [`LICENSE`](./LICENSE).
 
-## 💜 Créditos
+---
 
 Desenvolvido 💛 por <strong>@mayasrl</strong> para o **Desafio de Natal ProGirls 2025**.
 
 ---
-
-**Divirta-se, aprenda e arrase!** 🚀✨
